@@ -5,3 +5,5 @@ Some new text.
 Even more text.
 
 more changes are made on the new branch.
+
+Add some more test here.
